@@ -1,0 +1,9 @@
+torch
+fair-esm
+biopython
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+kaggle
