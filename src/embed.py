@@ -11,6 +11,7 @@ from Bio import SeqIO
 import argparse
 import os
 
+
 def main(args):
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
